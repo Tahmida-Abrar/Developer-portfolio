@@ -91,8 +91,9 @@ nav ul{
 }
 .about-info{
     display: flex;
-    gap: 60px;
-    padding: 0 100px 0 150px;
+    gap: 30px;
+    justify-content: space-between;
+    padding: 0 100px 0 115px;
 }
 .about-description{
     text-align: center;
