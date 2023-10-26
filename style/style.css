@@ -86,14 +86,13 @@ nav ul{
 .aboutMe-descriptions{
     color: #757575;
     padding: 30px 100px 30px 100px;
-    font-size: 10px;
+    font-size: 12px;
+    text-align: center;
 }
-     
-    
 .about-info{
     display: flex;
-    gap: 50px;
-    padding: 0 100px 0 100px;
+    gap: 60px;
+    padding: 0 100px 0 150px;
 }
 .about-description{
     text-align: center;
@@ -104,6 +103,55 @@ nav ul{
 .telephon{
     margin-right: 10px;
 }
+/* What i do section */
+.common-heading2{
+    text-align: center;
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+.paragraph{
+    color: #757575;
+    padding: 20px 340px 20px 340px;
+    font-size: 12px;
+    text-align: center;
+}
+.about-paragraph{
+    color: #757575;
+    font-size: 10px;
+    font-weight: 400;
+}
+.what-do{
+    display: flex;
+    gap: 20px;
+    padding: 30px 230px 30px 230px;
+   
+    padding-right: 20px;
+    margin-bottom: 30px;
+    }
+.about-js{
+    color: #181818;
+    padding: 20px 63px 20px 5px;
+    font-size: 10px;
+    font-weight: 700;
+}
+.shadow{
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    width: 150px;
+    height: 190px;
+    padding: 30px 30px;
+    border-radius: 5px;
+    background-color: #FFF;
+}
+
+/* summary section */
+.summary-heading{
+    text-align: center;
+    font-size: 20px;
+    color: #181818;
+    font-weight: 700;
+}
+
     
 
 
